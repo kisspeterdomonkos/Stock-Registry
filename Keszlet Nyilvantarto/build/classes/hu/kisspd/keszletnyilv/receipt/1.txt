@@ -1,0 +1,4 @@
+Számlaszám: 1
+Cikkszam 		Termek 		Mennyiseg 		Egysegar 		Fizetendő
+22 		Billentyűzet 		1 		100 		100
+Összesen: 100
